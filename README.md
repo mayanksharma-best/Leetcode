@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,8 +14,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/mayanksharma-best/Leetcode/tree/master/0520-detect-capital) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Binary Search
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Greedy
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
