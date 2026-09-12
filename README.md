@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksharma-best/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksharma-best/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksharma-best/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
