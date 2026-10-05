@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mayanksharma-best/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/mayanksharma-best/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
