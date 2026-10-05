@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksharma-best/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksharma-best/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
@@ -72,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
