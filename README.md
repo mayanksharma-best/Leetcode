@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mayanksharma-best/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksharma-best/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/mayanksharma-best/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mayanksharma-best/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mayanksharma-best/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mayanksharma-best/Leetcode/tree/master/3731-find-missing-elements) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/mayanksharma-best/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/mayanksharma-best/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
