@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/mayanksharma-best/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mayanksharma-best/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/mayanksharma-best/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
+| [0905-sort-array-by-parity](https://github.com/mayanksharma-best/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
