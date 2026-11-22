@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mayanksharma-best/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/mayanksharma-best/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mayanksharma-best/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/mayanksharma-best/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mayanksharma-best/Leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/mayanksharma-best/Leetcode/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/mayanksharma-best/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mayanksharma-best/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mayanksharma-best/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mayanksharma-best/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mayanksharma-best/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
