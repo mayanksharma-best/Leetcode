@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/mayanksharma-best/Leetcode/tree/master/0520-detect-capital) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mayanksharma-best/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Two Pointers
 |  |
 | ------- |
